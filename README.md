@@ -1,6 +1,6 @@
 # 🏏 IPL Win Predictor
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ipl-win-predictor07.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://ipl-win-predictor07.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Status](https://img.shields.io/badge/Status-Live-success)
