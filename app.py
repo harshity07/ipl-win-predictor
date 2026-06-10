@@ -14,7 +14,7 @@ st.set_page_config(
 st.markdown("""
 <style>
 .main {
-    background-color: #f5f5f5;
+    background-color: #010101;
 }
 
 h1 {
