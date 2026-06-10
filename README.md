@@ -5,7 +5,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Status](https://img.shields.io/badge/Status-Live-success)
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](iplimg.png)
 
 🔗 Live Demo: https://ipl-win-predictor07.streamlit.app/
 
