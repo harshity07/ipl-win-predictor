@@ -1,7 +1,14 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ipl-win-predictor07.streamlit.app/)
 # 🏏 IPL Win Predictor
 
-🔗 **Live Demo:** https://ipl-win-predictor07.streamlit.app/
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ipl-win-predictor07.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-Live-success)
+
+🔗 Live Demo: https://ipl-win-predictor07.streamlit.app/
+
+
+
 
 A Machine Learning-powered web application that predicts the winning probability of an IPL team during the second innings of a match based on the current match situation.
 
