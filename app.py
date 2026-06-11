@@ -32,7 +32,9 @@ teams=[
     "Punjab Kings",
     "Chennai Super Kings",
     "Rajasthan Royals",
-    "Delhi Capitals"
+    "Delhi Capitals",
+    "Gujarat Titans",
+    "Lucknow Super Giants"
     ]
 
 
