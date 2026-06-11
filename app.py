@@ -24,16 +24,18 @@ h1 {
 </style>
 """, unsafe_allow_html=True)
 
-teams=['Sunrisers Hyderabad',
- 'Mumbai Indians',
- 'Royal Challengers Bangalore',
- 'Kolkata Knight Riders',
- 'Punjab Kings',
- 'Chennai Super Kings',
- 'Rajasthan Royals',
- 'Delhi Capitals',
- 'Gujrat Titans',
- 'Lucknow Super Gaints']
+teams=[
+    "Sunrisers Hyderabad",
+    "Mumbai Indians",
+    "Royal Challengers Bangalore",
+    "Kolkata Knight Riders",
+    "Punjab Kings",
+    "Chennai Super Kings",
+    "Rajasthan Royals",
+    "Delhi Capitals",
+    "Gujarat Titans",
+    "Lucknow Super Giants"
+    ]
 
 
 
