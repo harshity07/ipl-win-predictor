@@ -75,11 +75,17 @@ selected_city= st.selectbox("Select host City",sorted(cities))
 target=st.number_input("enter Target Runs")
 col3,col4,col5 = st.columns(3)
 with col3:
-    score=st.number_input("runs scored")
+    score=st.number_input("runs scored",
+                          min=0,
+                          step=1)
 with col4:
-    overs=st.number_input("overs completed")
+    overs=st.number_input("overs completed",
+                          min=0,
+                          step=1)
 with col5:
-    wickets=st.number_input("wickets out")
+    wickets=st.number_input("wickets out",
+                             min=0,
+                             step=1)
 
 if st.button("predict"):
 
