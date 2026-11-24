@@ -743,4 +743,4 @@ elif page == "📈 Match Chase Progression":
 
 # ----------------- FOOTER -----------------
 st.divider()
-st.caption("Developed by Harshit Yadav | IPL Win Predictor & Analytics Hub using Python, Scikit-Learn & Streamlit")
+st.caption("IPL Win Predictor & Analytics Hub using Python, Scikit-Learn & Streamlit")
